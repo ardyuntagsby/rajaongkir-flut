@@ -5,7 +5,7 @@ import '../models/city.dart';
 import '../models/cost.dart';
 
 class RajaOngkirService {
-  static const String _apiKey = '8b93f91b815103a97bf93171890df3d1';
+  static const String _apiKey = 'API_KEY';
   static const String _baseUrl =
       'https://rajaongkir.komerce.id/api/v1/destination';
 
